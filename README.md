@@ -21,15 +21,15 @@ ML Pipeline Studio provides a **visual (GUI-driven) interface** to build, train,
 
 ## 🧠 Skills & Technologies
 
-### 💻 Programming & Machine Learning
+### Programming & Machine Learning
 - Python  
 - Scikit-learn (Model Training, Evaluation, Optimization)
 
-### 📊 Data Analysis & Visualization
+###  Data Analysis & Visualization
 - Pandas, NumPy  
 - Plotly (Interactive Dashboards & Graphs)
 
-### 🖥️ GUI / Frontend Development
+###  GUI / Frontend Development
 - Streamlit (Interactive Web Applications)  
 - GUI-based ML Pipeline Design  
 - Dashboard Development  
