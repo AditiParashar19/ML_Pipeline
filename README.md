@@ -1,6 +1,6 @@
 # ⚡ ML Pipeline Studio
 
-> An interactive, GUI-based end-to-end Machine Learning pipeline builder powered by Streamlit.
+> An interactive, GUI-based end-to-end Machine Learning Pipeline builder powered by Streamlit.
 
 ML Pipeline Studio provides a **visual (GUI-driven) interface** to build, train, and evaluate machine learning models without writing extensive code. It integrates **Machine Learning, Data Visualization, and UI/UX design** into a single streamlined application.
 
@@ -37,7 +37,7 @@ ML Pipeline Studio provides a **visual (GUI-driven) interface** to build, train,
 - Data Visualization Interfaces  
 
 ### ⚙️ Core ML Concepts
-- Data Preprocessing (Missing Values, Outliers)  
+- Data Preprocessing (Missing Values, Outliers Detection and Removal)  
 - Feature Selection & Engineering  
 - Model Selection & Hyperparameter Tuning  
 - K-Fold Cross Validation  
